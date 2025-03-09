@@ -1,3 +1,1 @@
-# ISE391Midterm
-
-This is the code for the ISE 391 midterm @ UAH with Dr. Chen. 
+# Analysis of sensor data collected from 12 test subjects from the Charger Robotics & Biomechanics Lab 
